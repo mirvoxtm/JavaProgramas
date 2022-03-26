@@ -1,7 +1,7 @@
 package HelloWorlds;
 
 
-public class Filhos {
+public class idades {
 
     public static void main(String[] args) {
         
